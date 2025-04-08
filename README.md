@@ -7,7 +7,7 @@
 - **Frontend**: React, HTML, CSS, JavaScript, TypeScript
 - **Backend**: Node.js, Express
 - **Database**: MySQL
-- **Tools**: Git, Slack, 
+- **Tools**: Git, Slack, Jira
 
 ## 주요 프로젝트 💻
 - [Resumate](https://github.com/kosmo138/resumate): Next.js, Tailwind CSS 사용하여 로그인 및 글 작성/조회 기능이 구현된 블로그 프로젝트
