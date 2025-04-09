@@ -10,7 +10,7 @@
 - **Tools**: Git, Slack, Jira
 
 ## 주요 프로젝트 💻
-- [Resumate](https://github.com/kosmo138/resumate): Next.js, Tailwind CSS 사용하여 로그인 및 글 작성/조회 기능이 구현된 블로그 프로젝트
+- [Resumate](https://github.com/kosmo138/resumate): (Front) Next.js + (Back) SpringBoot 사용하여 로그인 및 글 작성/조회 기능이 구현된 블로그 프로젝트
 
 ## 연락처 📞
 - 이메일: yousunning729@gmail.com
