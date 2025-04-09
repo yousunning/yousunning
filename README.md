@@ -4,7 +4,7 @@
 주로 TypeScript, React, Node.js를 사용하며, 웹 애플리케이션 개발에 열정을 가지고 있습니다.
 
 ## 기술 스택 ⚙️
-- **Frontend**: React, HTML, CSS, JavaScript, TypeScript
+- **Frontend**: React, Next.js
 - **Backend**: Node.js, Express
 - **Database**: MySQL
 - **Tools**: Git, Slack, Jira
