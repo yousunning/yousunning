@@ -6,7 +6,7 @@
 ## 기술 스택 ⚙️
 - **Frontend**: React, Next.js
 - **Backend**: Node.js, Express
-- **Database**: MySQL
+- **Database**: PostgreSQL, MariaDB
 - **Tools**: Git, Slack, Jira
 
 ## 주요 프로젝트 💻
