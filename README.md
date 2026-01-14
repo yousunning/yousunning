@@ -5,7 +5,8 @@
 
 ## 기술 스택 ⚙️
 - **Frontend**: React, Next.js
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, SpringBoot
+- **Data Access Layer** : JPA, MyBatis
 - **Database**: PostgreSQL, MariaDB
 - **Tools**: Git, Slack, Jira
 
